@@ -1,0 +1,10 @@
+body{background-color: #f5f5dd}
+h1{background-color: #ffff66}
+h2{background-color: #66ffff}
+p:nth-child(2){background-color: red;}
+p:nth-child(4){background-color: green;}
+ol li:first-child{background-color: rgb(255, 99, 71);}
+ol li:nth-child(2){background-color: rgb(238, 130, 238);}
+ol li:nth-child(3){background-color: rgb(255, 165, 0);}
+ol li:nth-child(4){background-color: rgb(0, 0, 255);}
+ol li:nth-child(5){background-color: rgb(106, 90, 205);}
